@@ -1,0 +1,74 @@
+body{
+	font-family:'Century Gothic';
+}
+.form-control{
+	margin-top:20px;
+	margin-bottom:20px;
+}
+.btn-primary{
+	margin-left:20px;
+}
+.navbar-fixed-bottom{
+	color:white;
+}
+.cbalink{
+	display:none;
+}
+form.form{
+    margin:10px 0px 80px 10px;
+    background:#EEEEEE;
+    padding:20px;
+    max-width: 100% !important;
+    min-width: 50% !important;
+    width: 400px !important;
+    border: 1px solid #CCCCCC;
+    float:left;
+}
+input.error{border:1px solid #FF0000 !important; }
+label.error,div.error{
+    font-weight:normal;
+    color:#FF0000 !important;
+}
+.text-normal{
+    font-weight:normal !important;
+}
+.inline-blocks{
+	font-size:14px;
+}
+.inline{
+    display:inline;
+    color:grey;
+    margin-right:5em;
+}
+.newspage{
+    margin-bottom:100px;
+}
+#back-button{
+    margin-left:0px !important;
+    background-color: grey;
+    border:1px solid white;
+}
+.article-container{
+    margin-top:100px;
+    background-color: lightgrey;
+    border:1px solid grey;
+    border-radius: 10px;
+    padding:2em;
+}
+.black-hr{
+    background-color:black;
+}
+.panel{
+    margin-bottom: 3em;
+}
+.search{
+    margin-bottom:20px;
+}
+.search-field{
+    width:10%;
+    display:inline;
+    margin-right: 2em;
+}
+.input-label{
+    margin-right: 1em;
+}
